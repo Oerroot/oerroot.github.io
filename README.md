@@ -1,6 +1,6 @@
 # When i miss you
 
-#### GitHub Pages+Hexo+NexT
+**GitHub Pages+Hexo+NexT**
 
-**[Welcome](https://oerroot.github.io/)**
+
 
