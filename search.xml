@@ -18,4 +18,20 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>stash</title>
+    <url>/stash/</url>
+    <content><![CDATA[<h1 id="GitHub-Pages-Hexo-NexT"><a href="#GitHub-Pages-Hexo-NexT" class="headerlink" title="GitHub Pages+Hexo+NexT"></a>GitHub Pages+Hexo+NexT</h1><p>搭建博客的尝试暂时就到这里，从一开始尝试Jekyll（已经忘了是在哪一步受挫……），转到Hexo+NexT的热门方案，对了，next-theme还有个坑，详见<a href="https://github.com/next-theme/hexo-theme-next/issues/4#issuecomment-626205848">theme-next与next-theme</a>，后续搭建过程也是不断遇到各种摸不着头脑的bug，学识所限，不懂前端，不懂Javascript，唯一的工具就剩下Google搜索引擎，哦，官方文档也很有帮助，到后面，几乎没有多少动手创造的乐趣，更像是复制粘贴，哪怕是主题个性化修改，也是对着主题自带的注释一步步来</p>
+<span id="more"></span>
+
+<p>主题自带的hello-world文章就不去修改了，目前的博客半成品，总结起来其实没多少收获，但付出的时间和精力却是对我效率和能力的一个绝佳评判：一个字，菜；一个词，垃圾</p>
+<p>希望自己能终有收获吧，到时能用得上这个辛苦搭建的blog，保留一些文字痕迹</p>
+]]></content>
+      <categories>
+        <category>二三事</category>
+      </categories>
+      <tags>
+        <tag>stupidmind</tag>
+      </tags>
+  </entry>
 </search>
