@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Adieu</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://oerroot.github.io/</id>
+  <link href="https://oerroot.github.io/" rel="alternate"/>
+  <link href="https://oerroot.github.io/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Adieu</rights>
+  <subtitle>I'll call you</subtitle>
+  <title>When i miss you</title>
+  <updated>2021-10-19T22:44:43.000Z</updated>
+  <entry>
+    <author>
+      <name>Adieu</name>
+    </author>
+    <category term="二三事" scheme="https://oerroot.github.io/categories/%E4%BA%8C%E4%B8%89%E4%BA%8B/"/>
+    <category term="stupidmind" scheme="https://oerroot.github.io/tags/stupidmind/"/>
+    <content>
+      <![CDATA[<h1 id="GitHub-Pages-Hexo-NexT"><a href="#GitHub-Pages-Hexo-NexT" class="headerlink" title="GitHub Pages+Hexo+NexT"></a>GitHub Pages+Hexo+NexT</h1><p>搭建博客的尝试暂时就到这里，从一开始尝试Jekyll（已经忘了是在哪一步受挫……），转到Hexo+NexT的热门方案，对了，next-theme还有个坑，详见<a href="https://github.com/next-theme/hexo-theme-next/issues/4#issuecomment-626205848">theme-next与next-theme</a>，后续搭建过程也是不断遇到各种摸不着头脑的bug，学识所限，不懂前端，不懂Javascript，唯一的工具就剩下Google搜索引擎，哦，官方文档也很有帮助，到后面，几乎没有多少动手创造的乐趣，更像是复制粘贴，哪怕是主题个性化修改，也是对着主题自带的注释一步步来</p><span id="more"></span><p>主题自带的hello-world文章就不去修改了，目前的博客半成品，总结起来其实没多少收获，但付出的时间和精力却是对我效率和能力的一个绝佳评判：一个字，菜；一个词，垃圾</p><p>希望自己能终有收获吧，到时能用得上这个辛苦搭建的blog，保留一些文字痕迹</p>]]>
+    </content>
+    <id>https://oerroot.github.io/stash/</id>
+    <link href="https://oerroot.github.io/stash/"/>
+    <published>2021-10-19T22:44:43.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="GitHub-Pages-Hexo-NexT"><a href="#GitHub-Pages-Hexo-NexT" class="headerlink" title="GitHub Pages+Hexo+NexT"></a>GitHub Pages+Hexo+NexT</h1><p>搭建博客的尝试暂时就到这里，从一开始尝试Jekyll（已经忘了是在哪一步受挫……），转到Hexo+NexT的热门方案，对了，next-theme还有个坑，详见<a href="https://github.com/next-theme/hexo-theme-next/issues/4#issuecomment-626205848">theme-next与next-theme</a>，后续搭建过程也是不断遇到各种摸不着头脑的bug，学识所限，不懂前端，不懂Javascript，唯一的工具就剩下Google搜索引擎，哦，官方文档也很有帮助，到后面，几乎没有多少动手创造的乐趣，更像是复制粘贴，哪怕是主题个性化修改，也是对着主题自带的注释一步步来</p>]]>
+    </summary>
+    <title>stash</title>
+    <updated>2021-10-19T22:44:43.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Adieu</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://oerroot.github.io/hello-world/</id>
+    <link href="https://oerroot.github.io/hello-world/"/>
+    <published>2021-10-19T07:17:24.000Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2021-10-19T07:17:24.000Z</updated>
+  </entry>
+</feed>
