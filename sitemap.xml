@@ -74,13 +74,6 @@
 
   
   <url>
-    <loc>https://oerroot.github.io/tags/stupidmind/</loc>
-    <lastmod>2026-11-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://oerroot.github.io/tags/Rust/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,17 +108,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://oerroot.github.io/tags/stupidmind/</loc>
+    <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://oerroot.github.io/categories/%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
+    <loc>https://oerroot.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oerroot.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <loc>https://oerroot.github.io/categories/%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
     <lastmod>2026-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
